@@ -1,9 +1,11 @@
-# employeeDirectoryApplication
+# Employee Directory Application
 
-Step-1
-1.create project
-2.Database Connection class
-3.create your entitiy class
-4.create dao interface
-5.create dao Implemention class
-6.create controller class
+Learning java doing employee directory application.
+
+Learning
+1.create project<br>
+2.Database Connection class<br>
+3.create your entitiy class<br>
+4.create dao interface<br>
+5.create dao Implemention class<br>
+6.create controller class<br>
